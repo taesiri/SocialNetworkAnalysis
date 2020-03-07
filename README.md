@@ -41,8 +41,7 @@ List of papers that worked on Twitter:
 1. An Information Diffusion Approach to Rumor Propagation and Identification on Twitter. (2020) [[Abstract](#paperid32)] [[Arxiv](https://arxiv.org/abs/2002.11104v1)]
 1. A multi-layer approach to disinformation detection on Twitter. (2020) [[Abstract](#paperid33)] [[Arxiv](https://arxiv.org/abs/2002.12612v1)]
 
-
-##Abstracts
+## Abstracts
 
 ### 2013 | Forecasting of Events by Tweet Data Mining <a id="paperid0"></a>
 
